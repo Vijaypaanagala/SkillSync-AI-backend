@@ -4,3 +4,4 @@ PyPDF2
 scikit-learn
 nltk
 spacy
+gunicorn
